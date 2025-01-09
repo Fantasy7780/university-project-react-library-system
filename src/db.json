@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "email": "user2@example.com",
+      "firstName": "Donald",
+      "lastName": "Smith",
+      "phoneNumber": "9999999",
+      "userName": "User2",
+      "role": "user",
+      "id": 3,
+      "password": "$2a$10$By7KbVKyj1vsBzuQV/XfXuyb0rmzw9zNwJ0lz8bB03riw2ZbC9fvW"
+    },
+    {
+      "email": "librarian@example.com",
+      "firstName": "Librarian",
+      "role": "librarian",
+      "id": 4,
+      "lastName": "Librarian",
+      "phoneNumber": "222222",
+      "userName": "librarian",
+      "password": "$2a$10$G806ombVWDMIhAxRC35DCOn0Gp/Gca8yi55HGnO/s.34megnp21Gu"
+    },
+    {
+      "email": "user1@example.com",
+      "password": "$2a$10$AAyGxHOaleOFdy/RqNLWguBZulMzmNA2T4bnvyKrAeSW3EXwDsdhO",
+      "firstName": "Joe",
+      "lastName": "Smith",
+      "phoneNumber": "66666666",
+      "userName": "User1",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "email": "user3@example.com",
+      "password": "$2a$10$aLT8joCO10iB0c5GkFhjgeFr5TtgHrfbXukT0ImNHcskqnvaU5ERC",
+      "firstName": "Adam",
+      "lastName": "Smith",
+      "phoneNumber": "3333333",
+      "userName": "user3",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "email": "user5@example.com",
+      "firstName": "Leon",
+      "lastName": "Smith",
+      "phoneNumber": "2222222",
+      "userName": "User5",
+      "role": "user",
+      "id": 7,
+      "password": "$2a$10$gHuvZI4BPnbRvx5SGS3u5eWXedUYhwsjAqeNhGVA6xUQs9/hRYW4O"
+    },
+    {
+      "email": "user4@example.com",
+      "password": "$2a$10$mcm1Am/0FLHpOJMvNkOn2ue7KipcZD1yGUwo1y9nRErXkMd1FHMOm",
+      "firstName": "Laura",
+      "lastName": "Smith",
+      "phoneNumber": "222222",
+      "userName": "User4",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "email": "user6@example.com",
+      "firstName": "Mike",
+      "lastName": "Smith",
+      "phoneNumber": "2222222",
+      "userName": "User6",
+      "role": "user",
+      "id": 9,
+      "password": "$2a$10$8PBNjA4zUUkv2SRHHKwTg.xjzePlN9JThSpGpmCzQRYy0K7Ovb.iy"
+    },
+    {
+      "email": "user7@example.com",
+      "password": "$2a$10$TEOWS0yRCANdlHbOMMRHIuDkgj6yDM7pMMzFy94U1NubGM9pDQxDG",
+      "firstName": "David",
+      "lastName": "Smith",
+      "phoneNumber": "222222",
+      "userName": "User7",
+      "role": "user",
+      "id": 10
+    },
+    {
+      "email": "john1@example.com",
+      "password": "$2a$10$dhNh6cHE15PGAX5Lup/qke.zX3zGYFhLccllstrHKL1ww1xtKu3Ia",
+      "firstName": "John",
+      "lastName": "Wick",
+      "phoneNumber": "333333",
+      "userName": "John1",
+      "role": "user",
+      "id": 11
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "Book 1",
+      "author": "Anna",
+      "publisher": "ABC",
+      "publishedDate": "2025-01-03",
+      "isBorrowed": false,
+      "isReserved": false,
+      "price": "13"
+    },
+    {
+      "id": "2",
+      "title": "Book 2",
+      "author": "Robert",
+      "publisher": "ABC",
+      "publishedDate": "2025-01-10",
+      "isBorrowed": false,
+      "isReserved": false,
+      "price": "22"
+    },
+    {
+      "id": "3",
+      "title": "Book 3",
+      "author": "Robert",
+      "publisher": "ABC",
+      "publishedDate": "2025-01-10",
+      "isBorrowed": false,
+      "isReserved": false,
+      "price": "32"
+    },
+    {
+      "id": "01369ffd-1153-4503-a25e-69f3b4fbd718",
+      "title": "Book 25",
+      "author": "David",
+      "publisher": "ABA",
+      "publishedDate": "2024-12-11",
+      "isBorrowed": false,
+      "isReserved": false,
+      "price": "15"
+    },
+    {
+      "id": "580cf1f0-a17f-4293-8146-17d144302c16",
+      "title": "Book 312",
+      "author": "David",
+      "publisher": "ABA",
+      "publishedDate": "2024-12-04",
+      "isBorrowed": false,
+      "isReserved": false,
+      "price": "44"
+    }
+  ],
+  "reservations": [],
+  "orders": []
+}
